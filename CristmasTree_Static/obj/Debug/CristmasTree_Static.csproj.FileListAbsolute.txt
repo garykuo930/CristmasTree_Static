@@ -1,0 +1,7 @@
+D:\Csharp_startup\Exercise\Week 2\HW\CristmasTree_Static\CristmasTree_Static\bin\Debug\CristmasTree_Static.exe.config
+D:\Csharp_startup\Exercise\Week 2\HW\CristmasTree_Static\CristmasTree_Static\bin\Debug\CristmasTree_Static.exe
+D:\Csharp_startup\Exercise\Week 2\HW\CristmasTree_Static\CristmasTree_Static\bin\Debug\CristmasTree_Static.pdb
+D:\Csharp_startup\Exercise\Week 2\HW\CristmasTree_Static\CristmasTree_Static\obj\Debug\CristmasTree_Static.csprojAssemblyReference.cache
+D:\Csharp_startup\Exercise\Week 2\HW\CristmasTree_Static\CristmasTree_Static\obj\Debug\CristmasTree_Static.csproj.CoreCompileInputs.cache
+D:\Csharp_startup\Exercise\Week 2\HW\CristmasTree_Static\CristmasTree_Static\obj\Debug\CristmasTree_Static.exe
+D:\Csharp_startup\Exercise\Week 2\HW\CristmasTree_Static\CristmasTree_Static\obj\Debug\CristmasTree_Static.pdb
